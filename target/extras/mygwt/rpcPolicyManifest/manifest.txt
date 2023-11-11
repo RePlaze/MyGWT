@@ -1,0 +1,3 @@
+# Module mygwt
+# RPC service class, partial path of RPC policy file
+nazenov.app.client.GreetingService, 321E2D4D21C4C598FA35ABF8020E9C77.gwt.rpc

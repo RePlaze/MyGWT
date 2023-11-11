@@ -1,0 +1,13 @@
+binding: user.agent=safari
+Compiling module nazenov.app.MyGWT
+   Unification traversed 20938 fields and methods and 2002 types. 1970 are considered part of the current module and 1970 had all of their fields and methods traversed.
+   Compiling 1 permutation
+      Compiling permutation 0...
+      Linking per-type JS with 1949 new/changed types.
+      Source Maps Enabled
+   Compile of permutations succeeded
+   Compilation succeeded -- 8.289s
+Linking into C:\Users\nazen\Desktop\MyGWT\target\gwt\devmode\work\nazenov.app.MyGWT\compile-2\war\mygwt; Writing extras to C:\Users\nazen\Desktop\MyGWT\target\gwt\devmode\work\nazenov.app.MyGWT\compile-2\extras\mygwt
+   Link succeeded
+   Linking succeeded -- 0.512s
+8.907s total -- Compile completed

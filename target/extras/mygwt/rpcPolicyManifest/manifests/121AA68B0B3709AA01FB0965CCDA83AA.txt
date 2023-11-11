@@ -1,0 +1,2 @@
+serviceClass: nazenov.app.client.GreetingService
+path: 321E2D4D21C4C598FA35ABF8020E9C77.gwt.rpc
